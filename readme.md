@@ -103,6 +103,12 @@ The smart contract source code is located in the `identeefi-smartcontract-solidi
 
 ---
 
+## Contributing
+
+Contributions are welcome. If you would like to contribute, please fork the repository and submit a pull request. For major changes, open an issue first to discuss the proposal.
+
+---
+
 ## Credits
 
 This project was developed as part of a Final Year Project (FYP).
